@@ -12,12 +12,10 @@ dont misuse this
 join us Whatsapp @Cyber Security White Hat @Unlimited
 join us Telegram in the name of Hack Store
 
-
-
 ### Usage:
 ```
-git clone https://github.com/posaveeram/powerfulphishingtool2019
-cd akhilhacker
+# git clone https://github.com/posaveeram/powerfulphishingtool2019
+# cd hackerphishingtool2019
 bash phishingtool.sh
 ```
 
